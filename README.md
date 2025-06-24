@@ -1,4 +1,4 @@
-# Aptos Core Processors (SDK version)
+# Aptos Core Processors (SDK version) 
 Processors that index data from the Aptos Transaction Stream (GRPC). These processors have been (re)-written using the new Indexer SDK.
 
 - **Note: Official releases coming soon!**
